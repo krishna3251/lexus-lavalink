@@ -1,0 +1,8 @@
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: lexus_password
+    sources:
+      local: true
